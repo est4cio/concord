@@ -1,0 +1,12 @@
+list-channels
+create-channel <nome> <tipo>
+enter-channel <nome>
+leave-channel
+send-message <mensagem>
+list-messages
+
+//EXTRAS
+-> só entrar em outro servidor quando sair de um
+-> quando o usuário sair, desconectar ele do servidor e do login
+-> se o list-server estiver vazio, imprimir uma mensagem avisando isso
+-> só listar servidores que o usuário esteja/seja dono
